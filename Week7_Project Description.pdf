@@ -1,0 +1,363 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+12 0 R
+16 0 R
+]
+/Count 3
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20231021021313+00'00')
+/ModDate (D:20231021021313+00'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 10 0 R ]
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 7043 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 768.985 Td /F1 24.0 Tf  [(NLP Resume Extraction - Project Document)] TJ ET
+BT 34.016 730.095 Td /F1 18.0 Tf  [(Team Member Details)] TJ ET
+0.000 0.000 0.000 RG
+57.816 702.578 m 
+57.816 703.128 57.589 703.674 57.201 704.063 c
+56.812 704.452 56.266 704.678 55.716 704.678 c
+55.166 704.678 54.620 704.452 54.231 704.063 c
+53.842 703.674 53.616 703.128 53.616 702.578 c
+53.616 702.028 53.842 701.482 54.231 701.093 c
+54.620 700.705 55.166 700.478 55.716 700.478 c
+56.266 700.478 56.812 700.705 57.201 701.093 c
+57.589 701.482 57.816 702.028 57.816 702.578 c f
+BT 64.016 699.473 Td /F1 12.0 Tf  [(Group Name:)] TJ ET
+BT 135.008 699.473 Td /F2 12.0 Tf  [( Lone Data Enthusiast)] TJ ET
+57.816 688.322 m 
+57.816 688.872 57.589 689.418 57.201 689.807 c
+56.812 690.196 56.266 690.422 55.716 690.422 c
+55.166 690.422 54.620 690.196 54.231 689.807 c
+53.842 689.418 53.616 688.872 53.616 688.322 c
+53.616 687.772 53.842 687.226 54.231 686.837 c
+54.620 686.449 55.166 686.222 55.716 686.222 c
+56.266 686.222 56.812 686.449 57.201 686.837 c
+57.589 687.226 57.816 687.772 57.816 688.322 c f
+BT 64.016 685.217 Td /F1 12.0 Tf  [(Team Members:)] TJ ET
+BT 78.816 670.966 Td /F2 12.0 Tf  [(1.)] TJ ET
+BT 94.016 670.846 Td /F2 12.0 Tf  [(Name: Ritu Kukreja)] TJ ET
+BT 94.016 656.446 Td /F2 12.0 Tf  [(Email: )] TJ ET
+0.000 0.000 0.800 rg
+BT 129.020 656.446 Td /F2 12.0 Tf  [(rk977@drexel.edu)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+129.020 653.746 m 218.384 653.746 l S
+0.000 0.000 0.000 rg
+BT 94.016 642.046 Td /F2 12.0 Tf  [(Country: United States)] TJ ET
+BT 94.016 627.646 Td /F2 12.0 Tf  [(College/Company: Drexel University)] TJ ET
+BT 94.016 613.246 Td /F2 12.0 Tf  [(Specialization: Data Science, NLP, Data Analyst)] TJ ET
+BT 34.016 578.319 Td /F1 18.0 Tf  [(Problem Description)] TJ ET
+0.000 0.000 0.000 RG
+57.816 550.802 m 
+57.816 551.352 57.589 551.898 57.201 552.287 c
+56.812 552.676 56.266 552.902 55.716 552.902 c
+55.166 552.902 54.620 552.676 54.231 552.287 c
+53.842 551.898 53.616 551.352 53.616 550.802 c
+53.616 550.252 53.842 549.706 54.231 549.317 c
+54.620 548.929 55.166 548.702 55.716 548.702 c
+56.266 548.702 56.812 548.929 57.201 549.317 c
+57.589 549.706 57.816 550.252 57.816 550.802 c f
+BT 64.016 535.697 Td /F1 12.0 Tf  [(Problem:)] TJ ET
+BT 112.004 535.697 Td /F2 12.0 Tf  [( Resumes contain surfeit information that is not relevant for the HR/authority, and they have )] TJ ET
+BT 64.016 521.441 Td /F2 12.0 Tf  [(to manually process the resumes to shortlist the promising candidates for them. And, thus making the )] TJ ET
+BT 64.016 507.185 Td /F2 12.0 Tf  [(shortlisting task a herculean task for HR. By making use of the NER\(Named Entity Recognition\) )] TJ ET
+BT 64.016 492.929 Td /F2 12.0 Tf  [(model of NLP this problem can be solved by finding and classifying the entities that are present in )] TJ ET
+BT 64.016 478.673 Td /F2 12.0 Tf  [(each resume into predefined classes such as person name, college name, academics information, )] TJ ET
+BT 64.016 464.417 Td /F2 12.0 Tf  [(relevant experiences, skill set, etc.)] TJ ET
+57.816 441.266 m 
+57.816 441.816 57.589 442.362 57.201 442.751 c
+56.812 443.140 56.266 443.366 55.716 443.366 c
+55.166 443.366 54.620 443.140 54.231 442.751 c
+53.842 442.362 53.616 441.816 53.616 441.266 c
+53.616 440.716 53.842 440.170 54.231 439.781 c
+54.620 439.393 55.166 439.166 55.716 439.166 c
+56.266 439.166 56.812 439.393 57.201 439.781 c
+57.589 440.170 57.816 440.716 57.816 441.266 c f
+BT 64.016 426.161 Td /F1 12.0 Tf  [(Importance:)] TJ ET
+BT 128.000 426.161 Td /F2 12.0 Tf  [( The problem of manually processing resumes is of significant importance due to its )] TJ ET
+BT 64.016 411.905 Td /F2 12.0 Tf  [(widespread impact on various applications within the recruitment and HR domain. The traditional )] TJ ET
+BT 64.016 397.649 Td /F2 12.0 Tf  [(method of sifting through resumes is time-consuming and often results in inefficiencies and errors. )] TJ ET
+BT 64.016 383.393 Td /F2 12.0 Tf  [(The use of Named Entity Recognition \(NER\) models in natural language processing offers a )] TJ ET
+BT 64.016 369.137 Td /F2 12.0 Tf  [(transformative solution to this challenge. Automating the extraction and classification of entities )] TJ ET
+BT 64.016 354.881 Td /F2 12.0 Tf  [(within resumes, such as personal details, educational qualifications, experiences, and skills, holds the )] TJ ET
+BT 64.016 340.625 Td /F2 12.0 Tf  [(potential to revolutionize the HR industry. It can lead to faster, more accurate candidate shortlisting, )] TJ ET
+BT 64.016 326.369 Td /F2 12.0 Tf  [(improved recruitment efficiency, reduced workload for HR professionals, and enhanced scalability to )] TJ ET
+BT 64.016 312.113 Td /F2 12.0 Tf  [(handle large volumes of applications.)] TJ ET
+57.816 288.962 m 
+57.816 289.512 57.589 290.058 57.201 290.447 c
+56.812 290.836 56.266 291.062 55.716 291.062 c
+55.166 291.062 54.620 290.836 54.231 290.447 c
+53.842 290.058 53.616 289.512 53.616 288.962 c
+53.616 288.412 53.842 287.866 54.231 287.477 c
+54.620 287.089 55.166 286.862 55.716 286.862 c
+56.266 286.862 56.812 287.089 57.201 287.477 c
+57.589 287.866 57.816 288.412 57.816 288.962 c f
+BT 64.016 273.857 Td /F1 12.0 Tf  [(Project Objectives:)] TJ ET
+BT 162.308 273.857 Td /F2 12.0 Tf  [( The primary objectives of this project are to develop and implement an NER )] TJ ET
+BT 64.016 259.601 Td /F2 12.0 Tf  [(model tailored to resume analysis. This model will enable the efficient extraction and classification of )] TJ ET
+BT 64.016 245.345 Td /F2 12.0 Tf  [(entities within resumes, categorizing them into predefined classes like personal information, )] TJ ET
+BT 64.016 231.089 Td /F2 12.0 Tf  [(educational history, experiences, and skill sets. The project aims to automate the entire resume )] TJ ET
+BT 64.016 216.833 Td /F2 12.0 Tf  [(processing workflow, creating a user-friendly interface for HR professionals. Additionally, the project )] TJ ET
+BT 64.016 202.577 Td /F2 12.0 Tf  [(will focus on achieving scalability to handle a high volume of resumes effectively. Performance )] TJ ET
+BT 64.016 188.321 Td /F2 12.0 Tf  [(evaluation will be a key component to ensure the accuracy and reliability of the NER model. )] TJ ET
+BT 64.016 174.065 Td /F2 12.0 Tf  [(Ultimately, the project's goal is to provide a valuable tool that streamlines and enhances the resume )] TJ ET
+BT 64.016 159.809 Td /F2 12.0 Tf  [(processing workflow for HR authorities.)] TJ ET
+BT 34.016 112.911 Td /F1 18.0 Tf  [(Business Understanding)] TJ ET
+57.816 85.394 m 
+57.816 85.944 57.589 86.490 57.201 86.879 c
+56.812 87.268 56.266 87.494 55.716 87.494 c
+55.166 87.494 54.620 87.268 54.231 86.879 c
+53.842 86.490 53.616 85.944 53.616 85.394 c
+53.616 84.844 53.842 84.298 54.231 83.909 c
+54.620 83.521 55.166 83.294 55.716 83.294 c
+56.266 83.294 56.812 83.521 57.201 83.909 c
+57.589 84.298 57.816 84.844 57.816 85.394 c f
+BT 64.016 70.289 Td /F1 12.0 Tf  [(Business Relevance:)] TJ ET
+BT 167.012 70.289 Td /F2 12.0 Tf  [( This project aligns closely with the needs and objectives of businesses and )] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 11 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 129.0197 655.3663 218.3837 667.2463 ]
+>>
+endobj
+11 0 obj
+<< /Type /Action
+/S /URI
+/URI (mailto:rk977@drexel.edu)
+>>
+endobj
+12 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Annots [ 14 0 R ]
+/Contents 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 7588 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.6 w 0 J [  ] 0 d
+BT 64.016 796.469 Td /F2 12.0 Tf  [(industries, particularly within the HR and recruitment domains. HR departments in various )] TJ ET
+BT 64.016 782.213 Td /F2 12.0 Tf  [(organizations face the daunting task of manually processing large volumes of resumes during the )] TJ ET
+BT 64.016 767.957 Td /F2 12.0 Tf  [(recruitment process. The traditional approach is time-consuming and prone to errors, making it )] TJ ET
+BT 64.016 753.701 Td /F2 12.0 Tf  [(challenging to efficiently shortlist promising candidates. By automating the extraction and )] TJ ET
+BT 64.016 739.445 Td /F2 12.0 Tf  [(classification of entities within resumes using Named Entity Recognition \(NER\) models, this project )] TJ ET
+BT 64.016 725.189 Td /F2 12.0 Tf  [(addresses a critical business need. It streamlines the hiring process, improves the quality of candidate )] TJ ET
+BT 64.016 710.933 Td /F2 12.0 Tf  [(selection, and significantly reduces the manual workload for HR professionals.)] TJ ET
+57.816 687.782 m 
+57.816 688.332 57.589 688.878 57.201 689.267 c
+56.812 689.656 56.266 689.882 55.716 689.882 c
+55.166 689.882 54.620 689.656 54.231 689.267 c
+53.842 688.878 53.616 688.332 53.616 687.782 c
+53.616 687.232 53.842 686.686 54.231 686.297 c
+54.620 685.909 55.166 685.682 55.716 685.682 c
+56.266 685.682 56.812 685.909 57.201 686.297 c
+57.589 686.686 57.816 687.232 57.816 687.782 c f
+BT 64.016 672.677 Td /F1 12.0 Tf  [(Applications:)] TJ ET
+BT 132.692 672.677 Td /F2 12.0 Tf  [( The applications of resume extraction are diverse and extend beyond HR and )] TJ ET
+BT 64.016 658.421 Td /F2 12.0 Tf  [(recruitment. Any industry or organization that deals with a substantial influx of unstructured text data )] TJ ET
+BT 64.016 644.165 Td /F2 12.0 Tf  [(can benefit from this technology. Beyond shortlisting candidates, it can be applied to automate the )] TJ ET
+BT 64.016 629.909 Td /F2 12.0 Tf  [(extraction of valuable insights from text data, such as academic research, content curation, and )] TJ ET
+BT 64.016 615.653 Td /F2 12.0 Tf  [(information retrieval. Resume extraction has the potential to enhance efficiency and accuracy in )] TJ ET
+BT 64.016 601.397 Td /F2 12.0 Tf  [(processes that involve parsing and analyzing textual information.)] TJ ET
+BT 34.016 554.499 Td /F1 18.0 Tf  [(Project Lifecycle and Deadlines)] TJ ET
+57.816 526.982 m 
+57.816 527.532 57.589 528.078 57.201 528.467 c
+56.812 528.856 56.266 529.082 55.716 529.082 c
+55.166 529.082 54.620 528.856 54.231 528.467 c
+53.842 528.078 53.616 527.532 53.616 526.982 c
+53.616 526.432 53.842 525.886 54.231 525.497 c
+54.620 525.109 55.166 524.882 55.716 524.882 c
+56.266 524.882 56.812 525.109 57.201 525.497 c
+57.589 525.886 57.816 526.432 57.816 526.982 c f
+BT 64.016 511.877 Td /F1 12.0 Tf  [(Project Lifecycle:)] TJ ET
+BT 154.304 511.877 Td /F2 12.0 Tf  [( The project can be divided into several key phases. The initial phase involves data )] TJ ET
+BT 64.016 497.621 Td /F2 12.0 Tf  [(collection, where a diverse dataset of resumes will be gathered. The next phase focuses on data )] TJ ET
+BT 64.016 483.365 Td /F2 12.0 Tf  [(preprocessing, including text cleaning, formatting, and structuring the resumes. Subsequently, the )] TJ ET
+BT 64.016 469.109 Td /F2 12.0 Tf  [(model development phase entails creating an NER model for resume analysis. Post-model )] TJ ET
+BT 64.016 454.853 Td /F2 12.0 Tf  [(development, the project will enter an evaluation phase to ensure the model's accuracy and )] TJ ET
+BT 64.016 440.597 Td /F2 12.0 Tf  [(effectiveness. Finally, an implementation phase will integrate the model into a user-friendly interface )] TJ ET
+BT 64.016 426.341 Td /F2 12.0 Tf  [(for HR professionals.)] TJ ET
+57.816 403.190 m 
+57.816 403.740 57.589 404.286 57.201 404.675 c
+56.812 405.064 56.266 405.290 55.716 405.290 c
+55.166 405.290 54.620 405.064 54.231 404.675 c
+53.842 404.286 53.616 403.740 53.616 403.190 c
+53.616 402.640 53.842 402.094 54.231 401.705 c
+54.620 401.317 55.166 401.090 55.716 401.090 c
+56.266 401.090 56.812 401.317 57.201 401.705 c
+57.589 402.094 57.816 402.640 57.816 403.190 c f
+BT 64.016 388.085 Td /F1 12.0 Tf  [(Deadlines:)] TJ ET
+BT 118.016 388.085 Td /F2 12.0 Tf  [( The project timeline will span approximately six months. Data collection is estimated to )] TJ ET
+BT 64.016 373.829 Td /F2 12.0 Tf  [(take one weeks. Data preprocessing is expected to be completed within two days. Model development, )] TJ ET
+BT 64.016 359.573 Td /F2 12.0 Tf  [(evaluation, and fine-tuning will collectively require 2 more days. The final phase, which involves )] TJ ET
+BT 64.016 345.317 Td /F2 12.0 Tf  [(implementation, interface development, and user testing, is estimated to take a day. This timeline is )] TJ ET
+BT 64.016 331.061 Td /F2 12.0 Tf  [(subject to adjustment based on project complexity and the availability of resources.)] TJ ET
+BT 34.016 284.163 Td /F1 18.0 Tf  [(Data Intake Report)] TJ ET
+57.816 256.646 m 
+57.816 257.196 57.589 257.742 57.201 258.131 c
+56.812 258.520 56.266 258.746 55.716 258.746 c
+55.166 258.746 54.620 258.520 54.231 258.131 c
+53.842 257.742 53.616 257.196 53.616 256.646 c
+53.616 256.096 53.842 255.550 54.231 255.161 c
+54.620 254.773 55.166 254.546 55.716 254.546 c
+56.266 254.546 56.812 254.773 57.201 255.161 c
+57.589 255.550 57.816 256.096 57.816 256.646 c f
+BT 64.016 241.541 Td /F1 12.0 Tf  [(Dataset:)] TJ ET
+BT 106.664 241.541 Td /F2 12.0 Tf  [( Provide the source of the dataset you are using for this project. In your case, it's the dataset )] TJ ET
+BT 64.016 227.285 Td /F2 12.0 Tf  [(from )] TJ ET
+0.000 0.000 0.800 rg
+BT 90.344 227.285 Td /F2 12.0 Tf  [(this GitHub link)] TJ ET
+0.000 0.000 0.800 RG
+0.6 w 0 J [  ] 0 d
+90.344 224.585 m 168.356 224.585 l S
+0.000 0.000 0.000 rg
+BT 168.356 227.285 Td /F2 12.0 Tf  [(.)] TJ ET
+0.000 0.000 0.000 RG
+57.816 204.134 m 
+57.816 204.684 57.589 205.230 57.201 205.619 c
+56.812 206.008 56.266 206.234 55.716 206.234 c
+55.166 206.234 54.620 206.008 54.231 205.619 c
+53.842 205.230 53.616 204.684 53.616 204.134 c
+53.616 203.584 53.842 203.038 54.231 202.649 c
+54.620 202.261 55.166 202.034 55.716 202.034 c
+56.266 202.034 56.812 202.261 57.201 202.649 c
+57.589 203.038 57.816 203.584 57.816 204.134 c f
+BT 64.016 189.029 Td /F1 12.0 Tf  [(Data Preprocessing:)] TJ ET
+BT 167.660 189.029 Td /F2 12.0 Tf  [( In the initial stage of the project, data preprocessing played a pivotal role in )] TJ ET
+BT 64.016 174.773 Td /F2 12.0 Tf  [(preparing the raw resume dataset for analysis. The dataset, consisting of resumes in various formats, )] TJ ET
+BT 64.016 160.517 Td /F2 12.0 Tf  [(underwent a series of preprocessing steps to ensure uniformity and quality. These steps included the )] TJ ET
+BT 64.016 146.261 Td /F2 12.0 Tf  [(removal of irrelevant or sensitive information to comply with privacy and confidentiality regulations. )] TJ ET
+BT 64.016 132.005 Td /F2 12.0 Tf  [(Additionally, text cleaning techniques, such as removing special characters, standardizing text case, )] TJ ET
+BT 64.016 117.749 Td /F2 12.0 Tf  [(and handling missing data, were applied to enhance the quality and consistency of the textual content )] TJ ET
+BT 64.016 103.493 Td /F2 12.0 Tf  [(within the resumes. Formatting adjustments were made to ensure a consistent structure across all )] TJ ET
+BT 64.016 89.237 Td /F2 12.0 Tf  [(resumes, facilitating the subsequent Named Entity Recognition \(NER\) model's accuracy. Moreover, )] TJ ET
+BT 64.016 74.981 Td /F2 12.0 Tf  [(data was transformed into a structured format for effective model training, making it ready for the )] TJ ET
+endstream
+endobj
+14 0 obj
+<< /Type /Annot
+/Subtype /Link
+/A 15 0 R
+/Border [0 0 0]
+/H /I
+/Rect [ 90.3437 226.2055 168.3557 238.0855 ]
+>>
+endobj
+15 0 obj
+<< /Type /Action
+/S /URI
+/URI (https://gist.github.com/Rahulrky/b57ad459545c896231c4b770bd8d22ef)
+>>
+endobj
+16 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 17 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 461 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+0.6 w 0 J [  ] 0 d
+BT 64.016 796.469 Td /F2 12.0 Tf  [(NER model development phase. These preprocessing measures aimed to create a clean and )] TJ ET
+BT 64.016 782.213 Td /F2 12.0 Tf  [(standardized dataset, which is a critical prerequisite for the success of the resume extraction project.)] TJ ET
+BT 34.016 743.842 Td /F2 12.0 Tf  [(Lone Data Enthusiast)] TJ ET
+BT 34.016 729.557 Td /F2 12.0 Tf  [(10/19/2023)] TJ ET
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000298 00000 n 
+0000000327 00000 n 
+0000000441 00000 n 
+0000000523 00000 n 
+0000007618 00000 n 
+0000007726 00000 n 
+0000007835 00000 n 
+0000007963 00000 n 
+0000008038 00000 n 
+0000008122 00000 n 
+0000015763 00000 n 
+0000015890 00000 n 
+0000016007 00000 n 
+0000016072 00000 n 
+trailer
+<<
+/Size 18
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+16585
+%%EOF
